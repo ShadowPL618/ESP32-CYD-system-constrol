@@ -1,6 +1,3 @@
-# ESP32-CYD-system-constrol
-
-Markdown
 # ESP32 CYD PC Hardware Monitor
 
 An interactive, real-time PC hardware monitoring dashboard that streams performance telemetry from a Windows host machine onto an ESP32 Cheap Yellow Display (CYD) via Serial USB connection.
